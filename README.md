@@ -14,6 +14,9 @@ npm install --save gulp gulp-live-server
 #initilize bower and save with default options
 bower init
 
+npm install --save ejs
+
+-Make to print hello-world using ejs
 
 
 
