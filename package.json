@@ -15,7 +15,7 @@
     "express",
     "mongo"
   ],
-  "author": "Wilson Varghese1",
+  "author": "Wilson Varghese",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wilsonkv/react-express-app/issues"
