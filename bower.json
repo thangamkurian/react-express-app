@@ -1,0 +1,22 @@
+{
+  "name": "react-express-app",
+  "description": "A sample react-express-mongo project for learning.",
+  "main": "index.js",
+  "authors": [
+    "Wilson Varghese"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "express",
+    "mongo"
+  ],
+  "homepage": "https://github.com/wilsonkv/react-express-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
